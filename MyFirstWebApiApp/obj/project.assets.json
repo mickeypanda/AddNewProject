@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Xamarin complete\\DotNetProjects\\MyFirstWebApiApp\\MyFirstWebApiApp.csproj",
+      "projectUniqueName": "D:\\Xamarin complete\\AddNewProject\\MyFirstWebApiApp\\MyFirstWebApiApp.csproj",
       "projectName": "MyFirstWebApiApp",
-      "projectPath": "D:\\Xamarin complete\\DotNetProjects\\MyFirstWebApiApp\\MyFirstWebApiApp.csproj",
+      "projectPath": "D:\\Xamarin complete\\AddNewProject\\MyFirstWebApiApp\\MyFirstWebApiApp.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Xamarin complete\\DotNetProjects\\MyFirstWebApiApp\\obj\\",
+      "outputPath": "D:\\Xamarin complete\\AddNewProject\\MyFirstWebApiApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

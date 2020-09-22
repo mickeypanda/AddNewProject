@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y0OAgsKPzzXecrCKbH4CBK8vMh++trpDsMyJfvkAOYSS8Po+aDlXdMJs4iOqVR/wq9WC2UjIIPPu27ZcEyZ/gw==",
+  "dgSpecHash": "YOB+6+sQ6dJ7XoJS5jrrFajWn0PgnoXP/rqgwCSD+KWPkRCgmJFwXLcBCq7VS/nNmBEho2MYpjQ3tc4diMcgSw==",
   "success": true,
-  "projectFilePath": "D:\\Xamarin complete\\DotNetProjects\\MyFirstWebApiApp\\MyFirstWebApiApp.csproj",
+  "projectFilePath": "D:\\Xamarin complete\\AddNewProject\\MyFirstWebApiApp\\MyFirstWebApiApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

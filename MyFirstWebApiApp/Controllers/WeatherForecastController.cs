@@ -35,5 +35,10 @@ namespace MyFirstWebApiApp.Controllers
             })
             .ToArray();
         }
+
+        public bool ReturnData()
+        {
+            return true;
+        }
     }
 }
